@@ -6,6 +6,7 @@ from conjecture_schema import Conjecture
 
 Graph = Dict[int, Set[int]]
 
+
 def counterexample_objective(conj: Conjecture, G: Graph) -> float:
     holds, premise_true, inv = check_conjecture_on_graph(conj, G)
 
