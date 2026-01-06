@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1c6aab7d-9f2f-4ff1-b930-17c5edfb4ee0" name="Changes" comment="Add initial README describing the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +82,7 @@
       <workItem from="1704259355709" duration="10000" />
       <workItem from="1703875533450" duration="3691000" />
       <workItem from="1767142153113" duration="1167000" />
-      <workItem from="1767687136699" duration="4763000" />
+      <workItem from="1767687136699" duration="5963000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project setup">
       <option name="closed" value="true" />
