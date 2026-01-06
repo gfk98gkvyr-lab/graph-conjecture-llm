@@ -1,0 +1,14 @@
+{
+  "seed": 0,
+  "n": 20,
+  "p": 0.2,
+  "tries": 8,
+  "steps": 1200,
+  "conjecture": {
+    "premise": "Atom(var='diameter', op='>', value=9.0)",
+    "conclusion": "Atom(var='avg_degree', op='<=', value=13.0)"
+  },
+  "found_counterexample": false,
+  "counterexample": null,
+  "elapsed_seconds": 1.6558289527893066
+}
